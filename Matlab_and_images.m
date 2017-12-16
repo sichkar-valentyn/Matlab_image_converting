@@ -1,3 +1,11 @@
+% File: Matlab_and_images.m
+% Description: Using MATLAB functions, convert images in different formats
+% Environment: Matlab
+%
+% MIT License
+% Copyright (c) 2017 Valentyn N Sichkar
+% github.com/sichkar-valentyn
+
 close all; clear all;
 
 % Reading main information about images
