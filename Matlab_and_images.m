@@ -5,8 +5,11 @@
 % MIT License
 % Copyright (c) 2017 Valentyn N Sichkar
 % github.com/sichkar-valentyn
+%
+% Reference to:
+% [1] Valentyn N Sichkar. Using MATLAB functions, convert images in different formats // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Matlab_image_converting (date of access: XX.XX.XXXX)
 
-close all; clear all;
+close all;
 
 % Reading main information about images
 Information_A = imfinfo('coins.png'); %Grayscale
