@@ -1,6 +1,9 @@
 # Matlab_image_converting
 Using MATLAB functions, convert images in different formats
 
+### Reference to:
+[1] Valentyn N Sichkar. Using MATLAB functions, convert images in different formats // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Matlab_image_converting (date of access: XX.XX.XXXX)
+
 ## Description
 
 Learning Matlab's functions for image converting
@@ -29,3 +32,5 @@ Learning Matlab's functions for image converting
 ## MIT License
 ## Copyright (c) 2017 Valentyn N Sichkar
 ## github.com/sichkar-valentyn
+### Reference to:
+[1] Valentyn N Sichkar. Using MATLAB functions, convert images in different formats // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Matlab_image_converting (date of access: XX.XX.XXXX)
