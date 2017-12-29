@@ -1,4 +1,4 @@
-# Matlab_image_converting
+# Matlab image converting
 Using MATLAB functions, convert images in different formats
 
 ### Reference to:
