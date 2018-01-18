@@ -6,7 +6,13 @@ Using MATLAB functions, convert images in different formats
 
 ## Description
 
-Learning Matlab's functions for image converting
+Learning Matlab's functions for image converting.
+<p>The objectives:</p>
+<ul>
+<li>to learn the types of images;</li>
+<li>to find out functions of the system MATLAB, used to work with image files;</li>
+<li>to purchase practical skills in using MATLAB functions.</li>
+</ul>
 
 ## Converting Grayscale to Binary
 ![Results](images/Grayscale_to_Binary.png)
