@@ -1,6 +1,9 @@
 # Matlab image converting
 Using MATLAB functions, convert images in different formats
 
+### Courses:
+* Explore the course **"Convolutional Neural Networks for Image Classification"** here: https://stepik.org/course/53801/promo
+
 ### Reference to:
 [1] Valentyn N Sichkar. Using MATLAB functions, convert images in different formats // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Matlab_image_converting (date of access: XX.XX.XXXX)
 
